@@ -2,4 +2,4 @@ new git
 写入了一条数据(master分支修改了这里)
 写入了一条数据 (newbranch分支修改了这里2)
 修改别人的项目 Kevin
-Kevin 进行第二次修改
+Kevin 进行第二次修改 (员工修改了这里)
